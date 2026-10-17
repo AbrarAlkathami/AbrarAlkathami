@@ -13,7 +13,7 @@
 
 ## 🌸 About Me
 
-Hi, I'm **Abrar Alkathami**, an AI Engineer based in Riyadh.
+Hi, I'm **Abrar Alkathami**, an AI Engineer.
 
 I enjoy building intelligent products across **AI, backend, and frontend engineering**, with a growing focus on agentic systems and production-ready AI.
 
@@ -124,10 +124,6 @@ AI-powered document assistant for summarization and conversational document sear
     <tr>
       <th align="left">Role</th>
       <td>AI Engineer</td>
-    </tr>
-    <tr>
-      <th align="left">Location</th>
-      <td>Riyadh, Saudi Arabia</td>
     </tr>
     <tr>
       <th align="left">Education</th>
