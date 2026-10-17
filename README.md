@@ -49,13 +49,13 @@ I enjoy building intelligent products across **AI, backend, and frontend enginee
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilabrar1&theme=rose_pine"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abraralkathami&theme=rose_pine"
     height="180"
     alt="Abrar's GitHub Stats"
   />
 
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ilabrar1&theme=rose_pine"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abraralkathami&theme=rose_pine"
     height="180"
     alt="Abrar's Most Used Languages"
   />
@@ -63,7 +63,7 @@ I enjoy building intelligent products across **AI, backend, and frontend enginee
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilabrar1&theme=rose_pine"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abraralkathami&theme=rose_pine"
     width="100%"
     alt="Abrar's GitHub Contribution Details"
   />
@@ -71,7 +71,7 @@ I enjoy building intelligent products across **AI, backend, and frontend enginee
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ilabrar1&theme=rose_pine&utcOffset=3"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abraralkathami&theme=rose_pine&utcOffset=3"
     alt="Abrar's Productive Time"
   />
 </p>
