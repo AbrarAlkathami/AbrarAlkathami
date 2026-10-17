@@ -1,7 +1,5 @@
-<h1 align="center">Hi, I'm Abrar 👋</h1>
-
 <p align="center">
-  AI Engineer · Full-Stack Developer · Riyadh, Saudi Arabia
+  <img src="./assets/header.svg" width="100%" />
 </p>
 
 <p align="center">
