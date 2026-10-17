@@ -1,0 +1,46 @@
+<svg width="900" height="260" viewBox="0 0 900 260"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <rect
+    x="10"
+    y="10"
+    width="880"
+    height="240"
+    rx="26"
+    fill="#FFF7FB"
+    stroke="#F4C2D7"
+    stroke-width="2"
+  />
+
+  <text
+    x="450"
+    y="85"
+    text-anchor="middle"
+    font-family="Georgia, serif"
+    font-size="38"
+    font-weight="700"
+    fill="#E75480">
+    Abrar Alkathami
+  </text>
+
+  <text
+    x="450"
+    y="135"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="22"
+    fill="#7A5062">
+    AI Engineer · Full-Stack Developer
+  </text>
+
+  <text
+    x="450"
+    y="180"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="18"
+    fill="#A4778B">
+    building intelligent products with code
+  </text>
+
+</svg>
