@@ -60,6 +60,7 @@ I enjoy building intelligent products across **AI, backend, and frontend enginee
   />
     <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abraralkathami&theme=rose_pine&utcOffset=3"
+    height="180"
     alt="Abrar's Productive Time"
   />
 </p>
