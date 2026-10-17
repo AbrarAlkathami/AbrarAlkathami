@@ -58,18 +58,16 @@ I enjoy building intelligent products across **AI, backend, and frontend enginee
     height="180"
     alt="Abrar's Most Used Languages"
   />
+    <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abraralkathami&theme=rose_pine&utcOffset=3"
+    alt="Abrar's Productive Time"
+  />
 </p>
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abraralkathami&theme=rose_pine"
     width="100%"
     alt="Abrar's GitHub Contribution Details"
-  />
-</p>
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abraralkathami&theme=rose_pine&utcOffset=3"
-    alt="Abrar's Productive Time"
   />
 </p>
 
