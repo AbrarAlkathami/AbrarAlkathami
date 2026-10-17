@@ -3,13 +3,9 @@
 </p>
 
 <p align="center">
-  Building AI-powered products with Python, FastAPI, Next.js and LangGraph.
-</p>
-
-<p align="center">
-  <a href="YOUR_LINKEDIN">LinkedIn</a> •
+  <a href="(https://www.linkedin.com/in/abrar-alkathami)">LinkedIn</a> •
   <a href="YOUR_PORTFOLIO">Portfolio</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="mailto:AbrarAlkathami@gmail.com">Email</a>
 </p>
 
 ---
