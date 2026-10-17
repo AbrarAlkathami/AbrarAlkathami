@@ -125,27 +125,22 @@ AI-powered document assistant for summarization and conversational document sear
       <th align="left">Name</th>
       <td>Abrar Alkathami</td>
     </tr>
-
     <tr>
       <th align="left">Role</th>
       <td>AI Engineer</td>
     </tr>
-
     <tr>
       <th align="left">Location</th>
       <td>Riyadh, Saudi Arabia</td>
     </tr>
-
     <tr>
       <th align="left">Education</th>
       <td>B.Sc. Computer Science</td>
     </tr>
-
     <tr>
       <th align="left">Main Focus</th>
       <td>AI Engineering · Full-Stack Development · Product Engineering</td>
     </tr>
-
     <tr>
       <th align="left">Current Interests</th>
       <td>Agentic AI · React Internals · AI Evaluation · Production AI</td>
