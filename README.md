@@ -3,10 +3,23 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abrar-alkathami">LinkedIn</a> •
-  <a href="YOUR_PORTFOLIO">Portfolio</a> •
-  <a href="https://leetcode.com/u/AbrarAlkathami/">LeetCode</a> •
-  <a href="mailto:AbrarAlkathami@gmail.com">Email</a>
+
+  <a href="https://www.linkedin.com/in/abrar-alkathami">
+    <img src="https://img.shields.io/badge/LinkedIn-E75480?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="YOUR_PORTFOLIO">
+    <img src="https://img.shields.io/badge/Portfolio-FF8FBA?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/AbrarAlkathami/">
+    <img src="https://img.shields.io/badge/LeetCode-FFB6C1?style=for-the-badge&logo=leetcode&logoColor=6D4658" />
+  </a>
+
+  <a href="mailto:AbrarAlkathami@gmail.com">
+    <img src="https://img.shields.io/badge/Email-F8BBD0?style=for-the-badge&logo=gmail&logoColor=6D4658" />
+  </a>
+
 </p>
 
 ---
